@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects</title>
+    <link>https://github.com/cganda/cganda.github.io/</link>
+    <description>Recent content on Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2018 16:13:20 -0700</lastBuildDate>
+    
+        <atom:link href="https://github.com/cganda/cganda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://github.com/cganda/cganda.github.io/posts/hello/</link>
+      <pubDate>Mon, 22 Jan 2018 16:13:20 -0700</pubDate>
+      
+      <guid>https://github.com/cganda/cganda.github.io/posts/hello/</guid>
+      <description>
+
+&lt;h2 id=&#34;hello-world&#34;&gt;Hello, World.&lt;/h2&gt;
+
+&lt;p&gt;This is a test post. More posts will be added to describe new projects.&lt;/p&gt;
+
+&lt;p&gt;This site is made with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;
+using &lt;a href=&#34;https://themes.gohugo.io/hugo-theme-one/&#34;&gt;one&lt;/a&gt; theme&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
