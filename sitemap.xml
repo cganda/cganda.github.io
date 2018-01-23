@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/cganda/cganda.github.io/posts/hello/</loc>
+    <loc>https://cganda.github.io/posts/hello/</loc>
     <lastmod>2018-01-22T16:13:20-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/cganda/cganda.github.io/categories/</loc>
+    <loc>https://cganda.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cganda/cganda.github.io/posts/</loc>
-    <lastmod>2018-01-22T16:13:20-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/cganda/cganda.github.io/</loc>
+    <loc>https://cganda.github.io/posts/</loc>
     <lastmod>2018-01-22T16:13:20-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/cganda/cganda.github.io/tags/</loc>
+    <loc>https://cganda.github.io/</loc>
+    <lastmod>2018-01-22T16:13:20-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cganda.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
